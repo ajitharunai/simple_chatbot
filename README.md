@@ -8,19 +8,19 @@
     <img src="https://img.shields.io/badge/Version-2.0-blue.svg?longCache=true&style=flat-square"
       alt="2.0" />
     <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-July 2, 2020-orange.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-october, 2021-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
   </div>
   
-### This repository inspired by Jayed Ahsan Saad.
+### This repository inspired by Ajith Kumar Murugan
 
-![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.png?raw=true)
+![alt text](https://blogger.googleusercontent.com/img/a/AVvXsEjaYHA94P8IYsaCBI9Ptjqg00HDWO1p93ah-SA3c-G-4etHdJ1-7tj3hINyF90smMtSXwSobfo3MyzGsnrjjhW-eWj8rfMDFudqex2KHxboX8deijKUe-63NqRzRFVezfJiVhOItes16DDm4wU_Qr6GUQHLebV63yz02Jdmf18XZQddrSWll2zauWDWnw=s16000)
 
 
   <div align="center">
-  <sub>A Simple Project with ❤
+  <sub>A Simple Project with Ajith kumar murugan
  </div>  
  
